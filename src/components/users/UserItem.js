@@ -18,7 +18,7 @@ function UserItem(props) {
     useEffect(() => {
       getProfile();
       
-    }, [])
+    }, )
 
     return (
 
